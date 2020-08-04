@@ -121,16 +121,22 @@ This is not something we do for you. This is something that you do for yourself,
 ### Example Presentation Format:
 1. Project description
   * What is it?
+  I chose to look into the airbnb data from Lisbon Portugal
   * Why is it interesting?
+  I initially chose it because I have family members from Portugal and I've never been there, but I've heard great things and also that it's a great place to retire to so I wanted to see the data from the point of view of a host to see if I'd like to invest in property there for rental income.
 1. Data acquisition
   * How did you do it? Any tricks?
+  I used pandas for my analysis and tableau for visualizations
 1. Exploratory data analysis
   * Three or four graphs
   * Make sure to include titles and axis labels
 1. Conclusion and next steps.
   * What did you learn about your data?
+
   * What did you learn about data analysis?
+
   * What advice would you give yourself?
+  
   * Do you want to continue with this topic?
 
 
